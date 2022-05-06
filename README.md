@@ -12,6 +12,6 @@ You can view my repo here
 
 Bahadır Bünül (bahadirbunul)
 
-<img src="assets/ssfashion.jpeg">
+<img src="assets/ssfashion.jpeg width= 200px">
 
 
